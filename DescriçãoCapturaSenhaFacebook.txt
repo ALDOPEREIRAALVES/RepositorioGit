@@ -1,0 +1,14 @@
+
+Phishing para captura de senhas do Facebook
+Ferramentas
+Kali Linux
+setoolkit
+Configurando o Phishing no Kali Linux
+Acesso root: sudo su
+             setoolkit
+Tipo de ataque: Engenharia Social
+Vetor de ataque: Web Site 
+Método de ataque: Método de ataque do coletor de credenciais
+Método de ataque: Clone de Site
+Obtendo o endereço da máquina: ifconfig
+URL para clone: http://www.facebook.com
